@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Water_Reservoirs_WH_Merged",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "ESR01", "head": 680.32, "AOI": 6, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 3 }, "geometry": { "type": "Point", "coordinates": [ 73.92804541291558, 18.426315686346488 ] } },
+{ "type": "Feature", "properties": { "id": "ESR03", "head": 661.96, "AOI": 6, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 3 }, "geometry": { "type": "Point", "coordinates": [ 73.930730884348307, 18.434276399754243 ] } },
+{ "type": "Feature", "properties": { "id": "ESR04", "head": 674.87, "AOI": 6, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 3 }, "geometry": { "type": "Point", "coordinates": [ 73.926143661316459, 18.428346399089001 ] } },
+{ "type": "Feature", "properties": { "id": "ESR02", "head": 681.05, "AOI": 6, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 3 }, "geometry": { "type": "Point", "coordinates": [ 73.928016484727308, 18.426056550755359 ] } },
+{ "type": "Feature", "properties": { "id": "R-1", "head": 705.231506, "AOI": 5, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.91258183930357, 18.430094861151414 ] } },
+{ "type": "Feature", "properties": { "id": "ESR01", "head": 691.03, "AOI": 5, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.914007191581533, 18.4327707383171 ] } },
+{ "type": "Feature", "properties": { "id": "ESR02", "head": 684.93, "AOI": 5, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.921933753330748, 18.431297288139216 ] } },
+{ "type": "Feature", "properties": { "id": "ESR03", "head": 679.97, "AOI": 5, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.919124451549536, 18.435538822754566 ] } },
+{ "type": "Feature", "properties": { "id": "ESR04", "head": 680.5, "AOI": 5, "image1": null, "image2": null, "video": null, "remark": null, "image3": null, "image4": null, "img_sts": 0, "vid_sts": 0, "image5": null, "village": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.921349505453335, 18.437900867718472 ] } }
+]
+}
